@@ -17,6 +17,12 @@ public class RestAssuredTest {
 	}
 	
 	@Test
+	public void apiTest23()
+	{
+		System.out.println("*************api test23********");
+	}
+	
+	@Test
 	public void postmanTest()
 	
 	{

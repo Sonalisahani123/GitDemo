@@ -17,4 +17,11 @@ public class SeleniumTest {
 		System.out.println("element in UI");
 		System.out.println("check for the 2nd method");
 	}
+	
+	@Test
+	public void borwserAutomation66()
+	{
+		System.out.println("Browser automation");
+		System.out.println("check for the changes");
+	}
 }
