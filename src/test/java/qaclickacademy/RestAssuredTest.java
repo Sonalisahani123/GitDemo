@@ -10,7 +10,11 @@ public class RestAssuredTest {
 		System.out.println("rest automation test");
 	}
 
-	
+	@Test
+	public void apiTest()
+	{
+		System.out.println("*************api test********");
+	}
 	
 	@Test
 	public void postmanTest()
